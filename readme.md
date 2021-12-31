@@ -58,3 +58,12 @@ cd onpolicy/scripts/train
 python train_football.py
 ```
 
+
+
+
+## Citing GCS
+
+If you use GCS in your research, or any other implementation provided here, please cite the GCS paper.
+
+
+
